@@ -14,4 +14,4 @@ git clone https://github.com/zidandaffa/Selenium-Cucumber-Java.git
 
 ### Run Results
 
-https://github.com/zidandaffa/Selenium-Cucumber-Java/assets/49936425/fe455943-d225-4327-949c-ffea8d34345c
+https://github.com/zidandaffa/Selenium-Cucumber-Java/assets/49936425/2dd29b4b-45dd-4166-b3a3-c14d75319c7d
